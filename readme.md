@@ -13,3 +13,5 @@ https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/87e874a8-912c-426
 
 
   : if you have problems with the icons, make a report here and I will solve it.
+
+I'll add more icon supports so the images don't go blank, but for now I'm sticking with this default.
