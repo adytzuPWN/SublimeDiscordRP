@@ -1,7 +1,7 @@
-# what I added new
+# updates_log:
 I added it to return you the line you are on
 
-# tutorial
+# tutorial ↓
 
 
 https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/87e874a8-912c-4267-9a2e-118e87f336e1
@@ -11,7 +11,7 @@ https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/87e874a8-912c-426
 
 - [Download Sublime Text](https://www.sublimetext.com/download)
 
-
-  : if you have problems with the icons, make a report here and I will solve it.
+# txt:
+if you have problems with the icons, make a report here and I will solve it.
 
 I'll add more icon supports so the images don't go blank, but for now I'm sticking with this default.
