@@ -1,3 +1,5 @@
+📄 Discord rich presence for Sublime Text
+
 # updates_log:
 I added it to return you the line you are on
 
