@@ -8,9 +8,6 @@ I added it to return you the line you are on
 
 https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/87e874a8-912c-4267-9a2e-118e87f336e1
 
-![1000042609](https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/b2783b55-9011-4512-b132-f28ca0844c7c)
-
-
 - [Download Sublime Text](https://www.sublimetext.com/download)
 
 # txt:
@@ -20,3 +17,6 @@ I'll add more icon supports so the images don't go blank, but for now I'm sticki
 
 
 [thanks to him](https://github.com/Snazzah/SublimeDiscordRP)
+
+![1000042609](https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/fc3f79b2-4886-454f-b753-8a18736a1a50)
+
