@@ -18,6 +18,5 @@ I'll add more icon supports so the images don't go blank, but for now I'm sticki
 
 [thanks to him](https://github.com/Snazzah/SublimeDiscordRP)
 
-photo:
-![1000042609](https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/fc3f79b2-4886-454f-b753-8a18736a1a50)
-
+![IMG_20231111_080054](https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/76d46a67-461b-44dd-92b0-e90dba4e3889)
+![IMG_20231111_080126](https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/7ec3824c-c82c-4ac4-ba97-0a6ef0a56216)
