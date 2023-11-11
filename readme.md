@@ -1,8 +1,5 @@
 📄 Discord rich presence for Sublime Text
 
-# updates_log:
-I added it to return you the line you are on
-
 # tutorial ↓
 
 
@@ -10,7 +7,7 @@ https://github.com/adytzuPWN/SublimeDiscordRP/assets/104699007/87e874a8-912c-426
 
 - [Download Sublime Text](https://www.sublimetext.com/download)
 
-# txt:
+# inf
 if you have problems with the icons, make a report here and I will solve it.
 
 I'll add more icon supports so the images don't go blank, but for now I'm sticking with this default.
